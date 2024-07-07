@@ -1,0 +1,195 @@
+{
+  "users": [
+    {
+      "id": "e1d5f0d9-7f6c-4e1f-9b8c-1a2b3c4d5e6f",
+      "fullname": "John Doe",
+      "gender": "male",
+      "password": "password123",
+      "avatar_url": "https://randomuser.me/api/portraits/men/1.jpg",
+      "email": "john.doe@example.com",
+      "phone_number": "+1234567890"
+    },
+    {
+      "id": "b4e5d6a7-8c9b-0d1e-2f3a-4b5c6d7e8f9a",
+      "fullname": "Jane Smith",
+      "gender": "female",
+      "password": "securepass456",
+      "avatar_url": "https://randomuser.me/api/portraits/women/1.jpg",
+      "email": "jane.smith@example.com",
+      "phone_number": "+1234567891"
+    },
+    {
+      "id": "c7d8e9f0-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+      "fullname": "Alice Johnson",
+      "gender": "female",
+      "password": "mypassword789",
+      "avatar_url": "https://randomuser.me/api/portraits/women/2.jpg",
+      "email": "alice.johnson@example.com",
+      "phone_number": "+1234567892"
+    },
+    {
+      "id": "d0e1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "fullname": "Bob Brown",
+      "gender": "male",
+      "password": "bobspass321",
+      "avatar_url": "https://randomuser.me/api/portraits/men/2.jpg",
+      "email": "bob.brown@example.com",
+      "phone_number": "+1234567893"
+    },
+    {
+      "id": "e3f4a5b6-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
+      "fullname": "Charlie Davis",
+      "gender": "male",
+      "password": "charlied123",
+      "avatar_url": "https://randomuser.me/api/portraits/men/3.jpg",
+      "email": "charlie.davis@example.com",
+      "phone_number": "+1234567894"
+    },
+    {
+      "id": "f6a7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "fullname": "Diana Evans",
+      "gender": "female",
+      "password": "dianapass456",
+      "avatar_url": "https://randomuser.me/api/portraits/women/3.jpg",
+      "email": "diana.evans@example.com",
+      "phone_number": "+1234567895"
+    },
+    {
+      "id": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "fullname": "Edward Foster",
+      "gender": "male",
+      "password": "edwardf789",
+      "avatar_url": "https://randomuser.me/api/portraits/men/4.jpg",
+      "email": "edward.foster@example.com",
+      "phone_number": "+1234567896"
+    },
+    {
+      "id": "b8c9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "fullname": "Fiona Green",
+      "gender": "female",
+      "password": "fionapass321",
+      "avatar_url": "https://randomuser.me/api/portraits/women/4.jpg",
+      "email": "fiona.green@example.com",
+      "phone_number": "+1234567897"
+    },
+    {
+      "id": "c4d5e6f7-8a9b-0c1d-2e3f-4a5b6c7d8e9f",
+      "fullname": "George Harris",
+      "gender": "male",
+      "password": "georgeh123",
+      "avatar_url": "https://randomuser.me/api/portraits/men/5.jpg",
+      "email": "george.harris@example.com",
+      "phone_number": "+1234567898"
+    },
+    {
+      "id": "d9e0f1a2-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+      "fullname": "Hannah Ingram",
+      "gender": "female",
+      "password": "hannah123",
+      "avatar_url": "https://randomuser.me/api/portraits/women/5.jpg",
+      "email": "hannah.ingram@example.com",
+      "phone_number": "+1234567899"
+    }
+  ],
+  "todos": [
+    {
+      "id": "f9d0e1a2-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+      "title": "Buy Groceries",
+      "description": "Buy milk, bread, eggs, and cheese from the supermarket.",
+      "done": false,
+      "createdAt": 1657892400000,
+      "updatedAt": 1657892400000,
+      "author": "e1d5f0d9-7f6c-4e1f-9b8c-1a2b3c4d5e6f"
+    },
+    {
+      "id": "b8e1f0d9-7c4b-5e6f-8a9b-0c1d2e3f4a5b",
+      "title": "Complete Project Report",
+      "description": "Finalize and submit the project report by end of the day.",
+      "done": true,
+      "createdAt": 1657988800000,
+      "updatedAt": 1657988800000,
+      "author": "b4e5d6a7-8c9b-0d1e-2f3a-4b5c6d7e8f9a"
+    },
+    {
+      "id": "c9d0e1f2-3b4c-5a6d-7e8f-9a0b1c2d3e4f",
+      "title": "Book Flight Tickets",
+      "description": "Book tickets for the upcoming vacation.",
+      "done": false,
+      "createdAt": 1658085200000,
+      "updatedAt": 1658085200000,
+      "author": "c7d8e9f0-1a2b-3c4d-5e6f-7a8b9c0d1e2f"
+    },
+    {
+      "id": "d1e2f3a4-5b6c-7d8e-9f0a-1b2c3d4e5f6a",
+      "title": "Call Plumber",
+      "description": "Schedule an appointment with the plumber to fix the kitchen sink.",
+      "done": true,
+      "createdAt": 1658181600000,
+      "updatedAt": 1658181600000,
+      "author": "d0e1f2a3-4b5c-6d7e-8f9a-0b1c2d3e4f5a"
+    },
+    {
+      "id": "e3f4a5b6-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
+      "title": "Pay Electricity Bill",
+      "description": "Pay the electricity bill before the due date.",
+      "done": false,
+      "createdAt": 1658278000000,
+      "updatedAt": 1658278000000,
+      "author": "e3f4a5b6-7c8d-9e0f-1a2b-3c4d5e6f7a8b"
+    },
+    {
+      "id": "f6a7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "title": "Attend Meeting",
+      "description": "Attend the team meeting at 10 AM.",
+      "done": true,
+      "createdAt": 1658374400000,
+      "updatedAt": 1658374400000,
+      "author": "f6a7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c"
+    },
+    {
+      "id": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "title": "Doctor's Appointment",
+      "description": "Visit the doctor for a regular check-up.",
+      "done": false,
+      "createdAt": 1658470800000,
+      "updatedAt": 1658470800000,
+      "author": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    },
+    {
+      "id": "b8c9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "title": "Submit Assignment",
+      "description": "Complete and submit the assignment by tomorrow.",
+      "done": true,
+      "createdAt": 1658567200000,
+      "updatedAt": 1658567200000,
+      "author": "b8c9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e"
+    },
+    {
+      "id": "c4d5e6f7-8a9b-0c1d-2e3f-4a5b6c7d8e9f",
+      "title": "Read a Book",
+      "description": "Finish reading the book 'Atomic Habits'.",
+      "done": false,
+      "createdAt": 1658663600000,
+      "updatedAt": 1658663600000,
+      "author": "c4d5e6f7-8a9b-0c1d-2e3f-4a5b6c7d8e9f"
+    },
+    {
+      "id": "d9e0f1a2-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+      "title": "Exercise",
+      "description": "Go for a run in the morning.",
+      "done": true,
+      "createdAt": 1658760000000,
+      "updatedAt": 1658760000000,
+      "author": "d9e0f1a2-3b4c-5d6e-7f8a-9b0c1d2e3f4a"
+    },
+    {
+      "id": "e1d5f0d9-7f6c-4e1f-9b8c-1a2b3c4d5e6f",
+      "title": "Plan Weekend Trip",
+      "description": "Plan a weekend trip to the mountains.",
+      "done": false,
+      "createdAt": 1658856400000,
+      "updatedAt": 1658856400000,
+      "author": "e1d5f0d9-7f6c-4e1f-9b8c-1a2b3c4d5e6f"
+    }
+  ]
+}
